@@ -1,0 +1,48 @@
+{
+    "tickers": [
+        {
+            "ticker": "RELIANCE.NS",
+            "name": "RELIANCE.NS"
+        },
+        {
+            "ticker": "TCS.NS",
+            "name": "TCS.NS"
+        },
+        {
+            "ticker": "INFY.NS",
+            "name": "INFY.NS"
+        },
+        {
+            "ticker": "NIFTY",
+            "name": "NIFTY"
+        },
+        {
+            "ticker": "SBIN.NS",
+            "name": "SBIN.NS"
+        },
+        {
+            "ticker": "SENSEX",
+            "name": "SENSEX"
+        },
+        {
+            "ticker": "TSLA",
+            "name": "TSLA"
+        },
+        {
+            "ticker": "^NSEMDCP50",
+            "name": "^NSEMDCP50"
+        },
+        {
+            "ticker": "BTC",
+            "name": "BTC"
+        },
+        {
+            "ticker": "MSFT",
+            "name": "MSFT"
+        },
+        {
+            "ticker": "NVDA",
+            "name": "NVIDIA Corporation"
+        }
+    ]
+}

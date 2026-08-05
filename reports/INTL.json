@@ -1,0 +1,126 @@
+{
+    "ticker": "INTL",
+    "analysis_type": "Comprehensive",
+    "horizon": "Intraday (1 Day)",
+    "financial_metrics": {
+        "company_name": "Main International ETF",
+        "currency_symbol": "$",
+        "price": 30.34,
+        "prev_close": 29.4,
+        "change_pct": 319.728,
+        "market_cap": 0,
+        "pe_ratio": 16.970543,
+        "eps": 0,
+        "dividend_yield": 338.0,
+        "sector": "Unknown",
+        "industry": "Unknown",
+        "balance_sheet": {},
+        "cash_flow": {},
+        "quarterly_results": {},
+        "institutional_holders": 0
+    },
+    "technical_indicators": {
+        "sma_50": 30.344737854,
+        "sma_200": 28.8788175296765,
+        "rsi": 52.28265223218678,
+        "macd": -0.027956504437776586,
+        "adx": 10.430979378378211,
+        "atr": 0.4784099319680776,
+        "obv": 1879141.0,
+        "bb_high": 30.818080428463684,
+        "bb_low": 29.53501958525631,
+        "support": 29.2999992371,
+        "resistance": 32.0054169179
+    },
+    "news_data": [
+        {
+            "title": "Analyst Recommendations and International Stock Market ...",
+            "publisher": "Tavily",
+            "link": "https://www.aeaweb.org/conference/2017/preliminary/paper/ErH5Fa7i",
+            "summary": "1 Analyst Recommendations and International Stock Market Returns Henk Berkman, Wanyi Yang, First Draft: July 2016 This Draft: November 2016 Abstract This paper documents that analyst recommendations aggregated at the country level predict international stock market returns. A trading strategy based on past country-level recommendations yields an abnormal return of around one percent per month. Aggregate analyst recommendations also help to predict changes in gross domestic product after accounti..."
+        },
+        {
+            "title": "AI opportunity in international stocks | 2026 outlook | Fidelity",
+            "publisher": "Tavily",
+            "link": "https://www.fidelity.com/learning-center/trading-investing/international-stocks-outlook",
+            "summary": "### 2026 midyear international stock outlook\n\nIn a rare show of strength, international stocks last year outperformed US equities by about 14 percentage points, in part due to American tariff policies, a weaker dollar, and aggressive interest rate cuts in some countries and regions. So far in 2026, non-US shares have continued to climb, yet generally remain valued at a discount to US stocks.\n\nThat momentum could continue as a number of trends transcend borders, helping to drive investment opport..."
+        },
+        {
+            "title": "Markets",
+            "publisher": "Tavily",
+            "link": "https://www.ft.com/markets",
+            "summary": "# Markets\n\n## Lead story in Markets\n\nTraders warn lack of guidance on interest rates erodes US central bank\u2019s influence on Treasury market\n\nKevin Warsh speaks at a podium, gesturing with his index finger raised during a Federal Reserve news conference.\n\n## News\n\nAcquisition marks significant step by Intercontinental Exchange into fixed-income trading\n\nAn electronic futures chart with red and green lines, showing recent volatility.\n\nMillions suffer \u2018unprecedented\u2019 losses after Samsung and SK Hyni..."
+        },
+        {
+            "title": "International Business, World News & Global Stock Market ...",
+            "publisher": "Tavily",
+            "link": "https://www.cnbc.com/world",
+            "summary": "Arjun Kharpal\n\n## Pro News and Analysis\n\nHere's where Jeffrey Gundlach is investing after the Fed held rates steady\n\nMichelle Fox20 min ago\n\nMcDonald's charts are starting to coil in the direction of a buy signal\n\nJay Woods2 hours ago\n\nThe number of stocks trading above a key technical level hit a peak not seen in two years\n\nDeena Zaidi3 hours ago\n\nThere's a utility stock on Josh Brown's list that's ready to break out\n\nJosh Brown4 hours ago\n\nJersey Mike's is about to go public. One analyst alrea..."
+        },
+        {
+            "title": "Is the International Outlook Brighter Than the US?",
+            "publisher": "Tavily",
+            "link": "https://www.youtube.com/watch?v=-Sc7rF4jSTw",
+            "summary": "So economic data has been strong. We'll see what the coming months bring and we're watching the Fed very closely to see what they do next. Now a cloud of uncertainty over tariffs, high interest rates, and sticky inflation has hovered above everyday investors. Were the markets due for this type of volatility? I think it's always unexpected when volatility hits. That's why it's volatile. So I don't think bouts of volatility are unexpected. The reasons that cause it are often unexpected. So I don't..."
+        }
+    ],
+    "corporate_data": [],
+    "corporate_research": {
+        "management_summary": "Unavailable",
+        "quarterly_highlights": "Unavailable",
+        "annual_highlights": "Unavailable",
+        "future_guidance": "Unavailable",
+        "expansion_strategy": "Unavailable",
+        "acquisitions": "Unavailable",
+        "capital_allocation": "Unavailable",
+        "dividend_policy": "Unavailable",
+        "institutional_activity": "Unavailable",
+        "management_risks": "Unavailable",
+        "press_release_summary": "Unavailable",
+        "investor_presentation_summary": "Unavailable",
+        "filings_summary": "Unavailable",
+        "document_confidence": 0
+    },
+    "financial_analysis": {
+        "summary": "Insufficient financial data is available for Main International ETF (INTL) to provide a comprehensive financial health assessment. The market capitalization is listed as zero, and detailed balance sheet and cash flow metrics are absent.",
+        "quarterly_comparison": "Quarterly comparison is not feasible due to the complete lack of reported quarterly results and historical comparative data.",
+        "revenue_analysis": "Revenue analysis cannot be performed because fundamental top-line financial data has not been provided.",
+        "profitability_analysis": "Profitability analysis is limited by the lack of income statement data, though the reported P/E ratio stands at 16.97 with an EPS of zero.",
+        "debt_and_cash": "Debt and cash position cannot be evaluated as the balance sheet and cash flow statements are empty.",
+        "financial_confidence": 10,
+        "financial_risk": 90
+    },
+    "sentiment_analysis": {
+        "overall_sentiment": "Neutral",
+        "news_summary": "The provided news covers broad international stock market trends, analyst recommendations, and macroeconomic factors such as interest rates, tariffs, and AI growth opportunities in international equities. There is no specific company-level news or filings directly referencing INTL.",
+        "market_perception": "The market views international stocks with cautious optimism due to relative valuation discounts compared to US equities, though overarching macro uncertainties such as sticky inflation and interest rate policy continue to drive volatility.",
+        "news_confidence": 50,
+        "news_risk": 45
+    },
+    "investment_recommendation": {
+        "recommendation": "Hold",
+        "target_horizon": "Intraday (1 Day)",
+        "bull_case": "Price sustains above the 50-day moving average and tests immediate resistance near 32.00 amid neutral macroeconomic sentiment.",
+        "bear_case": "Low volume and weak directional momentum (ADX 10.43) lead to a breakdown below support at 29.30 toward the 200-day moving average.",
+        "overall_confidence": 40,
+        "overall_risk": 75,
+        "key_reasons": [
+            "Insufficient financial data and complete lack of company-specific fundamental reports.",
+            "Neutral technical indicators with an RSI at 52.28 and low directional movement strength (ADX 10.43).",
+            "News sentiment is macro-driven rather than company-specific, presenting no immediate catalyst for INTL.",
+            "Price is trading within a well-defined Bollinger Band range between 29.54 and 30.82."
+        ],
+        "factors_weight": {
+            "Financial Health": 10,
+            "Technical Analysis": 50,
+            "News Sentiment": 20,
+            "Valuation": 10,
+            "Market Trend": 10
+        }
+    },
+    "generated_report_md": "## Executive Summary\nMain International ETF (INTL) currently trades at $30.34 with a neutral technical setup and an RSI of 52.28, reflecting stable near-term momentum. Insufficient financial data and a lack of company-specific fundamental reports limit a thorough financial health assessment. News sentiment remains macro-driven, focusing on broader international stock market trends, tariffs, and interest rates rather than specific company catalysts. The investment recommendation is Hold with a 40% confidence score and a 75% risk score. Major risks include a lack of reported fundamental metrics, low directional movement strength, and overarching macroeconomic uncertainties. The target investment horizon is Intraday (1 Day).\n\n## Metrics Snapshot\n| Metric | Value |\n| :--- | :--- |\n| Price | $30.34 |\n| Market Cap | $0 |\n| P/E | 16.97 |\n| EPS | $0 |\n| Dividend Yield | 338.0% |\n\n## Company Overview\nMain International ETF operates as an exchange-traded fund focused on international equities, providing exposure to broad global stock market trends. Data unavailable from retrieved sources regarding detailed core segments and competitive positioning.\n\n## Management Discussion\nData unavailable from retrieved sources.\n\n## Quarterly & Annual Highlights\n* Revenue: Data unavailable from retrieved sources.\n* Net Income: Data unavailable from retrieved sources.\n* EPS: $0\n* Margins: Data unavailable from retrieved sources.\n* Growth: Data unavailable from retrieved sources.\n* Cash Flow: Data unavailable from retrieved sources.\n* Guidance: Data unavailable from retrieved sources.\n\n## Business Strategy\n* Current Strategic Priorities: Data unavailable from retrieved sources.\n* Expansion Strategy: Data unavailable from retrieved sources.\n* Acquisitions: Data unavailable from retrieved sources.\n\n## Competitive Position\n* Economic Moat: Data unavailable from retrieved sources.\n* Market Share: Data unavailable from retrieved sources.\n* Peer Comparison: Data unavailable from retrieved sources.\n\n## Capital Allocation\n* Share Buybacks: Data unavailable from retrieved sources.\n* Dividends: Dividend yield reported at 338.0%; specific policy data unavailable from retrieved sources.\n* Cash Position: Data unavailable from retrieved sources.\n* Debt: Data unavailable from retrieved sources.\n* CapEx: Data unavailable from retrieved sources.\n* R&D: Data unavailable from retrieved sources.\n* Acquisitions: Data unavailable from retrieved sources.\n\n## Technical Analysis\n* Trend: Price is trading within a well-defined Bollinger Band range between 29.54 and 30.82.\n* Momentum: RSI is at 52.28, indicating neutral momentum.\n* Support/Resistance: Support is located at 29.30 and resistance is near 32.00.\n* Moving Averages: SMA 50 is 30.34 and SMA 200 is 28.88.\n* MACD: -0.0279\n* RSI: 52.28\n* ADX: 10.43, indicating low directional movement strength.\n* Volume: On-Balance Volume (OBV) stands at 1,879,141.\n* Technical Outlook: Neutral indicators with low directional movement strength.\n\n## News Summary\n* Positive Drivers: Relative valuation discounts compared to US equities and AI growth opportunities in international equities.\n* Negative Drivers: Macroeconomic uncertainties such as sticky inflation and interest rate policy driving volatility.\n* Market Sentiment: Cautious optimism with a neutral overall sentiment.\n* Analyst Consensus: Broad international stock market recommendations and analyst commentary.\n* Key Catalysts: No immediate company-specific catalysts; driven by macro factors.\n\n## Risk Assessment\n* Company Risks: Complete lack of company-specific fundamental reports and management guidance.\n* Financial Risks: Market capitalization listed as zero with absent balance sheet and cash flow metrics.\n* Technical Risks: Low directional movement strength (ADX 10.43) and low volume.\n* Macro Risks: Sticky inflation, interest rate policy, and international tariffs.\n* Regulatory Risks: Data unavailable from retrieved sources.\n\n## Investment Recommendation\n**Recommendation:** HOLD\n**Confidence:** 40%\n**Risk Score:** 75%\n**Investment Horizon:** Intraday (1 Day)\n\n**Bull Case**\n* Price sustains above the 50-day moving average and tests immediate resistance near 32.00 amid neutral macroeconomic sentiment.\n**Bear Case**\n* Low volume and weak directional momentum (ADX 10.43) lead to a breakdown below support at 29.30 toward the 200-day moving average.\n**Key Catalysts**\n* Broader international macroeconomic data releases.\n* Interest rate policy updates.\n* Regional tariff developments.\n**Watch List**\n* 50-day moving average (30.34)\n* Bollinger Band boundaries (29.54 and 30.82)\n* Support at 29.30",
+    "report_path_md": "",
+    "report_path_pdf": "",
+    "report_path_json": "",
+    "error": null
+}
