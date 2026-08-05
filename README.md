@@ -1,6 +1,6 @@
 # StockMindAI
 
-A production-ready, AI-first financial analysis platform Multiple markets
+A production-ready, AI-first financial analysis platform Multiple markets.
 
 ## Setup
 1. Create a virtual environment: `python -m venv venv`
