@@ -395,39 +395,7 @@ Follow-up questions do not require a complete fresh analysis.
 
 ---
 
-# Why the Project Stands Out
 
-The important part of StockMindAI is not simply that it uses an LLM.
-
-It combines:
-
-```text
-Financial APIs
-      +
-Deterministic Data Analysis
-      +
-Information Retrieval
-      +
-Multi-Agent Reasoning
-      +
-Structured Outputs
-      +
-RAG
-```
-
-The system therefore uses the **right tool for each type of task**:
-
-- Python → calculations and preprocessing
-- yFinance → financial/market data
-- Tavily → current web/news information
-- Firecrawl → corporate documents
-- Embeddings/FAISS → retrieval
-- LLM → interpretation and reasoning
-- LangGraph → workflow orchestration
-
-This separation improves reliability, efficiency and explainability.
-
----
 
 # Technology Stack
 
