@@ -1,6 +1,6 @@
 # StockMindAI — AI-Powered Stock Research Platform
 
-StockMindAI is a Streamlit-based AI stock research platform that combines **market data, technical analysis, financial fundamentals, news, corporate research, sentiment analysis, and investment reasoning** into one multi-agent workflow.
+StockMindAI is a AI stock research platform that combines **market data, technical analysis, financial fundamentals, news, corporate research, sentiment analysis, and investment reasoning** into one multi-agent workflow.
 
 The main idea is to **process and reduce financial information before sending it to the LLM**, balancing analysis quality, token usage, API calls, and response time.
 
